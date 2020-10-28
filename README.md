@@ -6,8 +6,7 @@
 ## Linear Regression
 
 ```typescript
-import { AdvertisingDataLoader } from './data-loader.ts';
-import { LinearRegression } from './linear-regression.ts';
+import { LinearRegression, AdvertisingDataLoader } from 'https://deno.land/x/dklearn@0.0.1/mod.ts';
 
 export const runAdvertisingExample = async () => {
     const adData = new AdvertisingDataLoader()

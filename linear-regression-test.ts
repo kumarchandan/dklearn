@@ -1,4 +1,4 @@
-import { AdvertisingDataLoader } from './data-loader.ts';
+import { AdvertisingDataLoader } from './data-loader-test.ts';
 import { LinearRegression } from './linear-regression.ts';
 
 export const runAdvertisingExample = async () => {
