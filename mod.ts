@@ -1,1 +1,1 @@
-export * from './linear-regression';
+export * from './linear-regression.ts';
